@@ -1,7 +1,7 @@
 ![header](https://vercel.app)
 
 <p align="center">
-  <a href="https://git.io"><img src="https://demolab.com+🎓;Junior+C%23+and+Web+Developer;Yeni+projeler+uzerinde+calisiyorum" alt="Typing SVG" /></a>
+  <a href="https://git.io"><img src="https://demolab.com+🎓;Junior+C%23+and+Web+Developer;Building+new+projects+with+passion" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 ## 👤 Hakkımda
 
-İstanbul Beykent Üniversitesi **Yönetim Bilişim Sistemleri 4. sınıf** öğrencisiyim. Mağazacılık ve muhasebe alanlarında edindiğim iş süreçleri deneyimini, yazılım ve BT dünyasındaki teknik becerilerimle harmanlamayı hedefliyorum. Şu anda kapsamlı olarak **C# (WinForms & OOP)** ve **Web Geliştirme** üzerine odaklanmış durumdayım.
+İstanbul Beykent Üniversitesi **Yönetim Bilişim Sistemleri 4. sınıf** öğrencisiyim. Mağazacılık ve muhasebe alanlarında edindiğim iş süreçleri deneyimini, yazılım ve BT dünyasındaki teknik becerilerimle harmanlamayı hedefliyorum. Şu an ağırlıklı olarak **C# (WinForms & OOP)** ve **Web Geliştirme** üzerine odaklanmış durumdayım.
 
 ![divider](https://vercel.app)
 
-## 🚀 Eğitim ve Deneyim
+## 🚀 Eğitim & Deneyim
 
 <table>
   <tr>
@@ -54,7 +54,7 @@
 
 ![divider](https://vercel.app)
 
-## 📊 GitHub İstatistikleri
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://vercel.app" alt="GitHub Stats" height="170" />
