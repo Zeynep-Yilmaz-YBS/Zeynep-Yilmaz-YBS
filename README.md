@@ -1,7 +1,7 @@
 ![header](https://vercel.app)
 
 <p align="center">
-  <a href="https://git.io/Zeynep Yılmaz"><img src="https://demolab.com+🎓;Junior+C%23+and+Web+Developer;Building+new+projects+with+passion" alt="Typing SVG" /></a>
+  <a href="https://git.io/Zeynep Yılmaz"><img src="https://demolab.com+🎓;Junior+C%23+and+Web+Developer;Building+new+projects+with+passion" alt="Zeynep Yılmaz" /></a>
 </p>
 
 <p align="center">
