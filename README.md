@@ -1,21 +1,22 @@
 ![header](https://vercel.app)
 
 <p align="center">
-  <a href="https://git.io"><img src="https://demolab.com" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://demolab.com" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <a href="mailto:zynpylmazzz@gmail.com"><img src="https://shields.io" alt="Email"></a>
-  <a href="https://github.com"><img src="https://shields.io" alt="GitHub"></a>
+  <a href="mailto:zynpylmazzz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="#"><img src="https://shields.io" alt="GitHub"></a>
 </p>
 
-![divider](https://vercel.app)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :technologist: &nbsp;Hakkımda
 
 Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim. Mağazacılık ve muhasebe alanlarında edindiğim iş süreçleri deneyimini, yazılım ve IT alanındaki teknik becerilerimle birleştirmeyi hedefliyorum. HTML ve CSS kullanarak web siteleri geliştirdim; şu anda C# dilinde kendimi geliştirerek yeni projeler üzerinde çalışıyorum. Staj sürecinde teknik olarak yetişebileceğim, dinamik bir yazılım/IT ekibinde kariyerime yön vermek istiyorum.
 
-![divider](https://vercel.app)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :mortar_board: &nbsp;Eğitim ve Deneyim
 
@@ -40,7 +41,7 @@ Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim. Mağazacılık ve muhase
   </tr>
 </table>
 
-![divider](https://vercel.app)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :wrench: &nbsp;Teknik Beceriler
 
@@ -49,13 +50,13 @@ Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim. Mağazacılık ve muhase
 ![C#](https://shields.io)
 ![HTML5](https://shields.io)
 ![CSS3](https://shields.io)
-![Python](https://shields.io)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Visual Studio](https://shields.io)
 ![Excel](https://shields.io)
 
 </div>
 
-![divider](https://vercel.app)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :computer: &nbsp;Projeler
 
@@ -63,7 +64,7 @@ Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim. Mağazacılık ve muhase
 *   **C# WinForms Uygulaması:** Masaüstü uygulama geliştirme (Geliştirme aşamasında).
 *   **Temel OOP Çalışmaları:** C# Console uygulamaları.
 
-![divider](https://vercel.app)
+![divider](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,12,19,27&height=2)
 
 ## :bar_chart: &nbsp;GitHub İstatistiklerim
 
@@ -72,4 +73,4 @@ Yönetim Bilişim Sistemleri 4. sınıf öğrencisiyim. Mağazacılık ve muhase
   <img src="https://vercel.app" alt="Top Languages" height="170" />
 </div>
 
-![footer](https://vercel.app)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,19,27&height=120&section=footer)
