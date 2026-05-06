@@ -1,47 +1,72 @@
 ![header](https://vercel.app)
 
 <p align="center">
-  <a href="https://git.io"><img src="https://demolab.com+🎓;Junior+C%23+and+Web+Developer;Yeni+projeler+uzerinde+calisiyorum" alt="Typing SVG" /></a>
+  <a href="https://git.io"><img src="https://demolab.com+🎓;Junior+C%23+and+Web+Developer;Yeni+projeler+üzerinde+çalışıyorum" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
   <a href="mailto:zynpylmazzz@gmail.com"><img src="https://shields.io" alt="Email"></a>
   <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
+  <a href="https://github.com"><img src="https://shields.io" alt="GitHub"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com" alt="Profile Views" />
 </p>
 
 ![divider](https://vercel.app)
 
-## 👤 Hakkımda
+## 👤 &nbsp;Hakkımda
 
 İstanbul Beykent Üniversitesi **Yönetim Bilişim Sistemleri 4. sınıf** öğrencisiyim. Mağazacılık ve muhasebe alanlarında edindiğim iş süreçleri deneyimini, yazılım ve BT dünyasındaki teknik becerilerimle harmanlamayı hedefliyorum. Şu an ağırlıklı olarak **C# (WinForms & OOP)** ve **Web Geliştirme** üzerine odaklanmış durumdayım.
 
 ![divider](https://vercel.app)
 
-## 🛠 Teknik Beceriler
+## 🚀 &nbsp;Eğitim & Deneyim
 
-<div align="center">
-
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-<img src="https://shields.io" />
-
-</div>
-
-### Detaylar:
-* **Programlama:** C# (Console, WinForms, Temel OOP), Python (Temel)
-* **Web:** HTML5, CSS3 (Çok sayfalı site geliştirme)
-* **Araçlar:** Visual Studio, VS Code, MS Excel
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 Eğitim</h4>
+      <ul>
+        <li><strong>İstanbul Beykent Üniversitesi</strong><br>Yönetim Bilişim Sistemleri (Lisans)<br><em>2022 - Devam Ediyor (4. Sınıf)</em></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💼 İş Deneyimi</h4>
+      <ul>
+        <li><strong>Dem-Kar Group</strong> — Muhasebe Stajyeri (2025)</li>
+        <li><strong>Zincirmoda</strong> — Kasa Sorumlusu (2024-2025)</li>
+        <li><strong>Sateen Story</strong> — Satış Danışmanı & Kasiyer (2022-2023)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ![divider](https://vercel.app)
 
-## 📊 GitHub İstatistikleri
+## 🛠 &nbsp;Teknik Beceriler
 
 <div align="center">
-  <img src="https://vercel.app" alt="Zeynep's GitHub Stats" />
-  <br/>
-  <img src="https://vercel.app" alt="Top Languages" />
+
+![C#](https://shields.io)
+![HTML5](https://shields.io)
+![CSS3](https://shields.io)
+![Python](https://shields.io)
+![Excel](https://shields.io)
+![VS Code](https://shields.io)
+
 </div>
+
+![divider](https://vercel.app)
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+  <img src="https://vercel.app" alt="GitHub Stats" height="170" />
+  <img src="https://vercel.app" alt="Top Languages" height="170" />
+</div>
+
+<br />
 
 ![footer](https://vercel.app)
